@@ -1,12 +1,11 @@
 # Zakir Muhammad
-## I am a Computer Science student at the University of Toronto.
-## I enjoy problem-solving and Mathematics.
+### I am a Computer Science student at the University of Toronto. I enjoy problem-solving and Mathematics.
 
 ### 🌐[Website](https://zakirm.com).
 ### 📘[LinkedIn](https://linkedin.com/in/zakir-m).
 ### 📜[Resume](https://www.zakirm.com/resume).
 
-![Floral Border 16](https://github.com/Zakir-Muhammad/Zakir-Muhammad/assets/84191340/42ed91b5-539d-41b4-85c1-f1fc9395f3a5)
+![Floral Border Edited](https://github.com/Zakir-Muhammad/Zakir-Muhammad/assets/84191340/a8bdbc00-560a-4c98-81f7-49532a967853)
 
 <!--
 **Zakir-Muhammad/Zakir-Muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

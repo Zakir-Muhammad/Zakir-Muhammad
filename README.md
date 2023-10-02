@@ -5,7 +5,7 @@ I enjoy problem-solving and Mathematics.
 🌐[Website](https://zakirm.com).
 📘[LinkedIn](https://linkedin.com/in/zakir-m).
 📜[Resume](https://www.zakirm.com/resume).
-![Floral_Border](https://github.com/Zakir-Muhammad/Zakir-Muhammad/assets/84191340/697a25f3-0217-4a86-b496-f2b310e1597c)
+![Floral Border](https://github.com/Zakir-Muhammad/Zakir-Muhammad/assets/84191340/1958b4fe-7432-439b-a553-8c132f680e58)
 
 <!--
 **Zakir-Muhammad/Zakir-Muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

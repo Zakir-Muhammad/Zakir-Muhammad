@@ -1,6 +1,6 @@
 # Zakir Muhammad
 I am a Computer Science student at the University of Toronto.
-I enjoy problem-solving and Mathematics.\
+I enjoy problem-solving and Mathematics.
 
 [Website](https://zakirm.com)
 [LinkedIn](https://linkedin.com/in/zakir-m)

@@ -5,7 +5,9 @@ I am a Computer Science student at the University of Toronto. I enjoy problem-so
 ### 📘 [LinkedIn](https://linkedin.com/in/zakir-m).
 ### 📜 [Resume](https://www.zakirm.com/resume).
 
+<!--
 ![Floral Border Edited](https://github.com/Zakir-Muhammad/Zakir-Muhammad/assets/84191340/a8bdbc00-560a-4c98-81f7-49532a967853)
+-->
 
 <!--
 **Zakir-Muhammad/Zakir-Muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

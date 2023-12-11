@@ -1,9 +1,9 @@
 # Zakir Muhammad
 I am a Computer Science student at the University of Toronto. I enjoy problem-solving and Mathematics.
 
-### 🌐 [Website](https://zakirm.com).
-### 📘 [LinkedIn](https://linkedin.com/in/zakir-m).
-### 📜 [Resume](https://www.zakirm.com/resume).
+### <img src="https://github.com/Zakir-Muhammad/Zakir-Muhammad/blob/main/internet.png" alt="Website" width="20"/> [Website](https://zakirm.com)
+### <img src="https://github.com/Zakir-Muhammad/Zakir-Muhammad/blob/main/linkedin.png" alt="LinkedIn" width="20"/> [LinkedIn](https://linkedin.com/in/zakir-m)
+### <img src="https://github.com/Zakir-Muhammad/Zakir-Muhammad/blob/main/attach-file.png" alt="Resume" width="20"/> [Resume](https://www.zakirm.com/resume)
 
 <!--
 ![Floral Border Edited](https://github.com/Zakir-Muhammad/Zakir-Muhammad/assets/84191340/a8bdbc00-560a-4c98-81f7-49532a967853)

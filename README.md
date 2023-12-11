@@ -5,9 +5,11 @@ I am a Computer Science student at the University of Toronto. I enjoy problem-so
 ### <img src="https://github.com/Zakir-Muhammad/Zakir-Muhammad/blob/main/linkedin.png" alt="LinkedIn" width="20"/> [LinkedIn](https://linkedin.com/in/zakir-m)
 ### <img src="https://github.com/Zakir-Muhammad/Zakir-Muhammad/blob/main/attach-file.png" alt="Resume" width="20"/> [Resume](https://www.zakirm.com/resume)
 
-<!--
-![Floral Border Edited](https://github.com/Zakir-Muhammad/Zakir-Muhammad/assets/84191340/a8bdbc00-560a-4c98-81f7-49532a967853)
--->
+<img src="https://github.com/Zakir-Muhammad/Zakir-Muhammad/blob/main/floral_border.jpeg" alt="Floral Border"/>
+
+<sub><a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by riajulislam - Flaticon</a></sub>
+<sub><a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a></sub>
+<sub><a href="https://www.flaticon.com/free-icons/attach" title="attach icons">Attach icons created by Freepik - Flaticon</a></sub>
 
 <!--
 **Zakir-Muhammad/Zakir-Muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 # Zakir Muhammad
 Computer Science student at the University of Toronto.
 
-[Website](https://zakirm.com)
+[Website](https://zakirm.ca)
 [LinkedIn](https://linkedin.com/in/zakir-m)
-[Resume](https://www.zakirm.com/resume)
+[Resume](https://www.zakirm.ca/resume)

@@ -12,14 +12,17 @@ Computer Science student at the University of Toronto.
 ### 2026 | CSC413: Neural Networks and Deep Learning
 Classifying Productivity of Individual Steps Towards Solving Math Problems
 - Utilizes an RNN neural network with a transformer.
+- Worked in a team of four.
 
 ### 2026 | CSC490: Capstone Project in Machine Vision 
 [Shirt Sponsor Logo Detector for ROI Analysis in Soccer Broadcasts](https://github.com/omarelmalak/csc490-group2)
 - Utilizes a YOLO network for object localization and a ResNet for classification.
+- Worked in a team of four.
 
 ### 2025 | CSC311: Introduction to Machine Learning
 [Softmax Regression Classifier for Food Items](https://github.com/Zakir-Muhammad/CSC311-Final)
 - Model predicts food item based on student responses to related questions.
+- Worked in a team of four.
 
 ### 2023 | UofT Hacks X
 [Hermes Itinerary Creator](https://github.com/chrstinalin/hermes)

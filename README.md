@@ -17,6 +17,10 @@ Classifying Productivity of Individual Steps Towards Solving Math Problems
 [Shirt Sponsor Logo Detector for ROI Analysis in Soccer Broadcasts](https://github.com/omarelmalak/csc490-group2)
 - Utilizes a YOLO network for object localization and a ResNet for classification.
 
+### 2025 | CSC311: Introduction to Machine Learning
+[Softmax Regression Classifier for Food Items](https://github.com/Zakir-Muhammad/CSC311-Final)
+- Model predicts food item based on student responses to related questions.
+
 ### 2023 | UofT Hacks X
 [Hermes Itinerary Creator](https://github.com/chrstinalin/hermes)
 - Worked in a team of four to build a trip discovery tool that recommends places to visit based on your unique interests through an LLM. 
